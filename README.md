@@ -9,3 +9,12 @@
 
 ## Projet Développement Web
 - Avancement sur la construction du container de production (branche `devops-prod`).
+
+# Compte-rendu du 08/12/2025
+
+## Projet Développement Web
+- Poursuite de l’avancement sur la branche de production.
+
+## Projet ESP
+- Évaluation des projets soumis avec attribution de notation.
+- Ajout de commentaires détaillés pour chacun des projets.
