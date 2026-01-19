@@ -18,3 +18,11 @@
 ## Projet ESP
 - Évaluation des projets soumis avec attribution de notation.
 - Ajout de commentaires détaillés pour chacun des projets.
+
+
+# Compte-rendu du 19/01/2026
+
+## Projet ESP
+- Travail relatif à l’organisation générale du projet.
+- Choix définitif du nom de l'application.
+- Création et finalisation du logo.
