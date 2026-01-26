@@ -26,3 +26,11 @@
 - Travail relatif à l’organisation générale du projet.
 - Choix définitif du nom de l'application.
 - Création et finalisation du logo.
+
+
+# Compte-rendu du 26/01/2026
+
+## Projet Spécialisation Cloud et Cybersécurité
+- Travail sur l'architecture globale du projet.
+- Définition du plan d'adressage et de la topologie réseau.
+- Réalisation des schémas techniques de l'infrastructure.
