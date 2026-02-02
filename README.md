@@ -34,3 +34,11 @@
 - Travail sur l'architecture globale du projet.
 - Définition du plan d'adressage et de la topologie réseau.
 - Réalisation des schémas techniques de l'infrastructure.
+
+
+# Compte-rendu du 02/02/2026
+
+## Projet Spécialisation Cloud et Cybersécurité
+- Travail sur l'architecture globale du projet.
+- Réalisation des schémas techniques de l'infrastructure.
+- Test de plusieurs solutions techniques.
