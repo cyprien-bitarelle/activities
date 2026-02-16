@@ -48,3 +48,9 @@
 ## Projet Spécialisation Cloud et Cybersécurité
 - Test de **Terraform** sur un cluster hébergé en local pour l'automatisation de l'infrastructure.
 - Test de **Ansible** pour la gestion de configuration et le déploiement sur les machines virtuelles (VM) créées.
+
+# Compte-rendu du 16/02/2026
+
+## Projet Spécialisation Cloud et Cybersécurité
+- Test de **Terraform** sur un cluster hébergé en local pour l'automatisation de l'infrastructure.
+- Test de **Ansible** pour la gestion de configuration et le déploiement sur les machines virtuelles (VM) créées.
