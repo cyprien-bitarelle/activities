@@ -54,3 +54,13 @@
 ## Projet Spécialisation Cloud et Cybersécurité
 - Test de **Terraform** sur un cluster hébergé en local pour l'automatisation de l'infrastructure.
 - Test de **Ansible** pour la gestion de configuration et le déploiement sur les machines virtuelles (VM) créées.
+
+# Compte-rendu du 23/02/2026
+
+## Projet ESP
+- Préparation du premier follow-up.
+- Élaboration d'une liste de questions à destination de la professionnelle de santé.
+
+## Projet Spécialisation Cloud et Cybersécurité
+- Installation de **pfSense** en environnement local pour phase de test.
+- Configuration et mise en place des premières règles de pare-feu (Firewall).
